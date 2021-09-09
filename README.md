@@ -13,8 +13,11 @@ We recommend highend CPU and GPU system with CUDA and OpenCV GPU setting.
 
 ## Files
 ayo.py
+
 human_problam.txt
+
 /models
+
 
 ## Models
 
